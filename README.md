@@ -8,7 +8,7 @@ As I found the answers remarkable I thought I share them here. Maybe other peopl
 
 I also added an [AI generated podcast](https://notebooklm.google.com/notebook/3a3cc95d-1613-4661-a450-6da32d195fed/audio) from the following conversation:
 
-## 1st promt: 
+## 1st prompt: 
 > Imagine a company issues convertible bonds to use the money to buy a fixed supply commodity. Imagine this would in turn increase the price of the commodity and thus the valuation of the company's balance sheet. This would allow the company to issue more convertible bonds. Is this sustainable? Will option traders who observe this potentially produce a gamma squeeze?
 
 ## ChatGPT: 
@@ -72,7 +72,7 @@ A **gamma squeeze** occurs when traders (often option market makers) are forced 
 ### **Conclusion**
 While the strategy might generate short-term gains and speculative excitement, it is fundamentally unsustainable and fraught with risks. Observant option traders could indeed exacerbate the situation through a **gamma squeeze**, but this would only magnify the eventual collapse. In the long run, such a strategy risks destroying shareholder value and destabilizing the market for the targeted commodity.
 
-## 2nd promt: 
+## 2nd prompt: 
 > Do you know of examples in the past where this has happened and how have those played out?
 
 ## ChatGPT: 
@@ -134,7 +134,7 @@ Issuing convertible bonds to purchase a fixed-supply commodity is unusual becaus
 ### **Conclusion**
 While there are no perfect historical precedents for this exact scenario, similar strategies (e.g., speculative commodity accumulation funded by debt) have generally resulted in **unsustainable bubbles** or financial distress once market corrections occurred. The outcomes highlight the inherent risks of leveraging debt for speculative purposes and relying on inflated valuations tied to volatile commodity prices.
 
-## 3rd promt: 
+## 3rd prompt: 
 > Assume the price of the rather novel commodity was not stable in the past but over time appreciating in value. Could the behavior of that company accelerate price discovery of the commodity?
 
 ## ChatGPT: 
